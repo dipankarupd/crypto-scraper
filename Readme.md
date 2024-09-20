@@ -31,3 +31,7 @@ Compile and run the program using the following command:
 ```
 go run main.go
 ```
+
+#### Blog
+
+You can read about the comprehensive description on how the project is made via this blog.<br> [Blog](https://medium.com/@drupd17/web-scraping-with-golang-scrape-cryptocurrency-data-with-go-e470eb9e916e)
